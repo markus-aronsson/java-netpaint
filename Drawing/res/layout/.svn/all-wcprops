@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/277/trunk/Drawing/res/layout
+END
+load_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/194/trunk/Drawing/res/layout/load_list_item.xml
+END
+splashscreen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/277/trunk/Drawing/res/layout/splashscreen.xml
+END
+device_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/194/trunk/Drawing/res/layout/device_list.xml
+END
+filehandler_save.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/194/trunk/Drawing/res/layout/filehandler_save.xml
+END
+menu_multiplayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/194/trunk/Drawing/res/layout/menu_multiplayer.xml
+END
+toast_brush.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/194/trunk/Drawing/res/layout/toast_brush.xml
+END
+toast_zoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/194/trunk/Drawing/res/layout/toast_zoom.xml
+END
+device_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/273/trunk/Drawing/res/layout/device_name.xml
+END
+brush2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/273/trunk/Drawing/res/layout/brush2.xml
+END
+connecting_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/194/trunk/Drawing/res/layout/connecting_dialog.xml
+END
+menu_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/194/trunk/Drawing/res/layout/menu_main.xml
+END
+toast_erase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/194/trunk/Drawing/res/layout/toast_erase.xml
+END
+canvas_single.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/273/trunk/Drawing/res/layout/canvas_single.xml
+END
+filehandler_load.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/194/trunk/Drawing/res/layout/filehandler_load.xml
+END
+menu_options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/275/trunk/Drawing/res/layout/menu_options.xml
+END
+eraser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/220/trunk/Drawing/res/layout/eraser.xml
+END
+brush.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/273/trunk/Drawing/res/layout/brush.xml
+END
+canvas_multi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/273/trunk/Drawing/res/layout/canvas_multi.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/257/trunk/Drawing/src/com/kandidat/rityta/zoom
+END
+ZoomRatio.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/194/trunk/Drawing/src/com/kandidat/rityta/zoom/ZoomRatio.java
+END
+ZoomState.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/194/trunk/Drawing/src/com/kandidat/rityta/zoom/ZoomState.java
+END
+DynamicZoomControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/257/trunk/Drawing/src/com/kandidat/rityta/zoom/DynamicZoomControl.java
+END
+ZoomListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/245/trunk/Drawing/src/com/kandidat/rityta/zoom/ZoomListener.java
+END

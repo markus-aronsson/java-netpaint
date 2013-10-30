@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/286/trunk/Drawing/src/com/kandidat/network
+END
+ConnectThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/276/trunk/Drawing/src/com/kandidat/network/ConnectThread.java
+END
+PointContainerIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/278/trunk/Drawing/src/com/kandidat/network/PointContainerIn.java
+END
+BluetoothHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/257/trunk/Drawing/src/com/kandidat/network/BluetoothHandler.java
+END
+TCPHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/276/trunk/Drawing/src/com/kandidat/network/TCPHandler.java
+END
+PointContainerOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/267/trunk/Drawing/src/com/kandidat/network/PointContainerOut.java
+END

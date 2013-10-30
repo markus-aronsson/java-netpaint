@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/286/trunk/Drawing
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/194/trunk/Drawing/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/273/trunk/Drawing/project.properties
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/194/trunk/Drawing/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/194/trunk/Drawing/.project
+END
+lint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/273/trunk/Drawing/lint.xml
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/282/trunk/Drawing/AndroidManifest.xml
+END
